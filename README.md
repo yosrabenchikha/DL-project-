@@ -4,7 +4,7 @@ This project uses an Artificial Neural Network (ANN) built with TensorFlow/Keras
 
 ## 📁 Dataset
 
-The dataset used is `Heart_Disease_Prediction.csv`, which contains medical attributes of patients and a target column indicating whether heart disease is present.
+The dataset used is `Disease_Prediction.csv`, which contains medical attributes of patients and a target column indicating whether heart disease is present.
 
 ## 🚀 Features
 
@@ -55,7 +55,7 @@ The model is evaluated using:
 ## ▶️ How to Run
 
 1. Clone the repository or download the script.
-2. Place `Heart_Disease_Prediction.csv` in the `/content/` directory (or update the file path).
+2. Place `Disease_Prediction.csv` in the `/content/` directory (or update the file path).
 3. Run the script in a Python environment with the required libraries installed.
 
 ### Required Libraries
